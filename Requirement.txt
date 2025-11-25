@@ -1,0 +1,3 @@
+This project uses only Python's standard library (math, input, print).
+
+No external dependencies are required.
